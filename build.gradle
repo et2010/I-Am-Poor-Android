@@ -9,8 +9,8 @@ buildscript {
             url "http://maven.aliyun.com/nexus/content/groups/public"
         }
 
-        jcenter()
-        google()
+//        jcenter()
+//        google()
 
     }
     dependencies {
@@ -29,8 +29,8 @@ allprojects {
         maven {
             url "http://maven.aliyun.com/nexus/content/groups/public"
         }
-        jcenter()
-        google()
+//        jcenter()
+//        google()
 
     }
 }
